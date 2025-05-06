@@ -1,0 +1,4 @@
+braintrust==0.0.201
+openai==1.77.0
+python-dotenv==1.1.0
+TextGrid==1.6.1 
